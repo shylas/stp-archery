@@ -80,21 +80,25 @@ article p{
 #classes{
   background-image: url(../images/class1-background.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #private-lessons{
   background-image: url(../images/lesson2-background.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #instructors{
   background-image: url(../images/nathan-lee-instructor-background.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #testimonials{
   background-image: url(../images/target-background.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 section h2{
