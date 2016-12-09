@@ -46,7 +46,8 @@ header img{
 }
 
 nav{
-  float: right;
+  font-size: 125%;
+  text-align: center;
 }
 
 nav a{
